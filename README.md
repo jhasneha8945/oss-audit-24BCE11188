@@ -85,4 +85,10 @@ installed on your Linux/Ubuntu system:
 
 .CoreUtils — Includes ls, du, awk, df used across scripts. Pre-installed on Linux.
 
+License
+
+The scripts in this repository are provided under the MIT License.
+
+The audited software (Git) is governed by the GNU General Public License v2 (GPL v2).
+
 
