@@ -76,6 +76,7 @@ chmod +x *.sh
 ./script5.sh
 ```
 Dependencies
+
 To ensure all scripts function correctly, the following should be
 installed on your Linux/Ubuntu system:
 
