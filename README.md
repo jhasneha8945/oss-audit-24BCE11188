@@ -78,8 +78,11 @@ chmod +x *.sh
 Dependencies
 To ensure all scripts function correctly, the following should be
 installed on your Linux/Ubuntu system:
+
 .Bash Shell — Required to run all scripts. Pre-installed on most Linux distros.
+
 .Git — Required for Script 2 (Package Inspector). Install with: `sudo apt install git`
+
 .CoreUtils — Includes ls, du, awk, df used across scripts. Pre-installed on Linux.
 
 
