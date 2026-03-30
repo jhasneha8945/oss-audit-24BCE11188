@@ -1,9 +1,14 @@
 OSS Audit — Git Version Control System
 Student Information
+
 Name: Sneha
+
 Registration Number: 24BCE11188
+
 Slot: B22
+
 University: VIT Bhopal University
+
 Chosen Software — Git
 
 About This Project
@@ -52,8 +57,8 @@ Concepts: read for user input, file redirection (>), string concatenation.
 ## How to Run the Scripts
 1. Clone the Repository
 ```bash
-git clone https://github.com/jhasneha8945/oss-audit-24BCE1188.git
-cd oss-audit-24BCE1188
+git clone https://github.com/jhasneha8945/oss-audit-24BCE11188.git
+cd oss-audit-24BCE11188
 ```
 
 2. Set Executable Permissions
